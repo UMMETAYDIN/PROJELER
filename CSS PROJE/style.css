@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:fixed;
+    bottom: 60px;
+    width: 100%;
+    gap: 50px;
+
+}
+
+
+
+.container{
+width: 240px;
+/* background-color: aqua; */
+padding: 15px;
+text-align: center;
+
+
+}
+
+img{
+width: 150px;
+padding: 15px;
+}
+
+h4{
+    padding: 8px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+}
+
+
+
